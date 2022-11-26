@@ -1,7 +1,7 @@
 # Nav Bar
 Created By Guilherme de Paula da Silva. <br/>
 This is a simple responsive nav bar. <br/><br/>
-[My site on web](https://color-generator-guilherme.web.app/)
+[My site on web](https://guilherme-nav-bar.web.app/)
 
 ## Install
 1 - Clone this repository to your computer.<br/>
